@@ -33,8 +33,8 @@ A modern task management application built with Next.js, TypeScript, Material UI
 
 1. Clone the repository:
    ```
-git clone https://github.com/Gitsandu/TaskManager.git
-cd collaborative-task-manager
+   git clone https://github.com/Gitsandu/TaskManager.git
+   cd collaborative-task-manager
    ```
 
 2. Install dependencies:
